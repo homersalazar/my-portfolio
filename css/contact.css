@@ -1,0 +1,15 @@
+
+ .contact-section .row{
+    background: var(--bg) !important;
+}
+
+.contact-section h1{
+    color: var(--white);
+    text-align: center;
+    padding-top: 5%;
+    font-weight: 900;
+    text-decoration: underline 4px solid var(--btn);
+    text-underline-offset: 8px;
+
+
+}
